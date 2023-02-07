@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Assignment1.Pages
+namespace SP2023_Assignment1_eisbell.Pages
 {
     public class PrivacyModel : PageModel
     {

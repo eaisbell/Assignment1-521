@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:49248",
-      "sslPort": 44373
+      "applicationUrl": "http://localhost:64941",
+      "sslPort": 44325
     }
   },
   "profiles": {
-    "Assignment1": {
+    "SP2023_Assignment1_eisbell": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7203;http://localhost:5236",
+      "applicationUrl": "https://localhost:7001;http://localhost:5183",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
